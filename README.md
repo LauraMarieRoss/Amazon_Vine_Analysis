@@ -15,6 +15,8 @@ The Amazon Vine program is an invite-only program which gives a select number of
 
 ## Results
 
+![Amazon_Vine_Analysis_Bias_Calculations](https://user-images.githubusercontent.com/105830645/199640056-23722306-7c49-405d-808b-78957d1add5f.png)
+<br><br>
 <b>1. How many Vine reviews and non-Vine reviews were there?</b>
 - Number of Vine reviews: 33
 - Number of non-Vine reviews: 45388
